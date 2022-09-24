@@ -101,6 +101,7 @@ body {
   font-size: 1.2em;
   padding: 0 5px;
   font-weight: bold;
+  color: olive;
 }
 
 .source {
@@ -110,7 +111,7 @@ body {
 }
 
 a.source:visited {
-  color: grey;
+  color: olive;
 }
 
 .description {
