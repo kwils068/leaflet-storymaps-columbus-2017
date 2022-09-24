@@ -174,21 +174,3 @@ h2 {
   font-size: 1.1em;
   font-weight: normal;
 }
-
-<style>
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-</style>
