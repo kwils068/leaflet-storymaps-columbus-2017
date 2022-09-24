@@ -101,17 +101,17 @@ body {
   font-size: 1.2em;
   padding: 0 5px;
   font-weight: bold;
-  color: olive;
+  color: rgb(128, 128, 0);
 }
 
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: olive;
+  color: rgb(128, 128, 0);
 }
 
 a.source:visited {
-  color: olive;
+  color: grey;
 }
 
 .description {
