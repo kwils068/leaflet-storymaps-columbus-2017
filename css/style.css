@@ -108,6 +108,13 @@ body {
   font-style: italic;
   color: gray;
 }
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
 a.source:visited {
   color: grey;
 }
